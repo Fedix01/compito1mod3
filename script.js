@@ -24,6 +24,16 @@
 //  3  Crea una funzione che controlli se due numeri siano compresi tra 40 e 60 o tra 70 e 100. Ritorna
 // 'true' se rispecchiano queste condizioni, altrimenti ritorna 'false'.
 
+// function numb() {
+//     let x = 0;
+//     let y = 80;
+//     if ((x > 40 && x < 60) || (y > 70 && y < 100)) {
+//         return console.log(true)
+//     } else {
+//         return console.log(false)
+//     }
+// }
+// numb()
 // 4. Crea una funzione che accetti un nome di città come parametro e ritorni il nome stesso se inizia con
 // "Los" o "New", altrimenti ritorni false'.
 // 5. Crea una funzione che calcoli e ritorni la somma di tutti gli elementi di un array.
